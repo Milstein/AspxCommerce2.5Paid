@@ -1,0 +1,16 @@
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame.Common\bin\Debug\SageFrame.Common.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame.Common\bin\Debug\SageFrame.Common.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame.Common\obj\Debug\SageFrame.Common.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame.Common\obj\Debug\SageFrame.Common.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame.Common\bin\Debug\SageFrame.Common.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame.Common\bin\Debug\SageFrame.Common.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame.Common\obj\Debug\SageFrame.Common.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame.Common\obj\Debug\SageFrame.Common.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame.Common\bin\Debug\SageFrame.Common.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame.Common\bin\Debug\SageFrame.Common.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame.Common\obj\Debug\SageFrame.Common.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame.Common\obj\Debug\SageFrame.Common.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.Common\bin\Debug\SageFrame.Common.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.Common\bin\Debug\SageFrame.Common.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.Common\obj\Debug\SageFrame.Common.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.Common\obj\Debug\SageFrame.Common.pdb
