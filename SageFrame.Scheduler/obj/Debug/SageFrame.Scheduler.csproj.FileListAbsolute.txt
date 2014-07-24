@@ -17,3 +17,8 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame\bin\SageFr
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame\bin\SageFrame.Scheduler.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame\bin\SageFrame.Scheduler.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame\bin\SageFrame.Scheduler.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb

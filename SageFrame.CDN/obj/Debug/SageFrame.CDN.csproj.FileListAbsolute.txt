@@ -25,3 +25,9 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.CDN\bin\De
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.CDN\bin\Debug\SageFrame.Common.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.CDN\bin\Debug\SageFrame.CDN.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.CDN\bin\Debug\SageFrame.CDN.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.CDN\bin\Debug\SageFrame.Common.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.CDN\bin\Debug\SageFrame.Common.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb

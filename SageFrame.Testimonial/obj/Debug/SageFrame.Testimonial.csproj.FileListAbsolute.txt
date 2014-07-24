@@ -42,3 +42,8 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame\bin\SageFr
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame\bin\SageFrame.Testimonial.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.Testimonial\obj\Debug\SageFrame.Testimonial.dll
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.Testimonial\obj\Debug\SageFrame.Testimonial.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame\bin\SageFrame.Testimonial.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame\bin\SageFrame.Testimonial.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.Testimonial\obj\Debug\SageFrame.Testimonial.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.Testimonial\obj\Debug\SageFrame.Testimonial.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.Testimonial\obj\Debug\SageFrame.Testimonial.pdb

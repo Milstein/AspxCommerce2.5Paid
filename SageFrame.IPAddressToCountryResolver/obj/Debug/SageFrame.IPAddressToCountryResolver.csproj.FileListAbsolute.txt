@@ -14,3 +14,8 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.IPAddressT
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.IPAddressToCountryResolver\bin\Debug\SageFrame.IPAddressToCountryResolver.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.dll
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.IPAddressToCountryResolver\bin\Debug\SageFrame.IPAddressToCountryResolver.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.IPAddressToCountryResolver\bin\Debug\SageFrame.IPAddressToCountryResolver.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.pdb

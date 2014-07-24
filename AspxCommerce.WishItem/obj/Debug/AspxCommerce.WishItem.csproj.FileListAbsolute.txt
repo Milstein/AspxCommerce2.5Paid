@@ -18,3 +18,8 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame\bin\AspxCo
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.csprojResolveAssemblyReference.cache
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.dll
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame\bin\AspxCommerce.WishItem.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame\bin\AspxCommerce.WishItem.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.pdb

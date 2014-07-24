@@ -14,3 +14,8 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\GoogleAdUnit\bin\Deb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\GoogleAdUnit\bin\Debug\SFE.GoogleAdUnit.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\GoogleAdUnit\bin\Debug\SFE.GoogleAdUnit.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\GoogleAdUnit\bin\Debug\SFE.GoogleAdUnit.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\GoogleAdUnit\obj\Debug\GoogleAdUnit.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb

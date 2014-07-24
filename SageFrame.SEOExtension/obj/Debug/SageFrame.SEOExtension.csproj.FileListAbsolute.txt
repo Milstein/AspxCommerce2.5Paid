@@ -17,3 +17,7 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame\bin\SageFr
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame\bin\SageFrame.SEOExtension.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.dll
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame\bin\SageFrame.SEOExtension.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame\bin\SageFrame.SEOExtension.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.pdb
