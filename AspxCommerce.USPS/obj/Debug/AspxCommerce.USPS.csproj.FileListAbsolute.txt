@@ -20,6 +20,5 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\AspxCommerce.USPS\ob
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommercePaid\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.pdb
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame\bin\AspxCommerce.USPS.dll
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\SageFrame\bin\AspxCommerce.USPS.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.csprojResolveAssemblyReference.cache
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.dll
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommercePaid\AspxCommerce.USPS\obj\Debug\AspxCommerce.USPS.pdb
